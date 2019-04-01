@@ -8,5 +8,6 @@
 </head>
 <body>
 인사말 : ${greeting}
+근데 풀리퀘스트좀 해도 되냐  233333
 </body>
 </html>
